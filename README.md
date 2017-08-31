@@ -1,13 +1,13 @@
-#NVS Strategy Evaluator#
+# NVS Strategy Evaluator #
 
 This is an Excel VBA based scanner, that scans all NSE stocks and outputs a list of the ones that are trending.
 
-###Requirements###
+### Requirements ###
 1. Excel (Any Version)
 2. ta-lib Technical Analysis Add-in for Excel (file included)
 3. Internet Access
 
-###Instructions###
+### Instructions ###
 1. Download and extract to C:\NVS Strategy
 2. Install ta-lib Add-in
 	1. Open Excel and then go to File->Options

@@ -1,1 +1,3 @@
 31-Oct-17 4:24:59 PM 13:Type mismatch - In Stage PopulateNVSShortlist - When Handling Stock RDEL
+01-Nov-17 9:43:39 AM 1004:Unable to get the VLookup property of the WorksheetFunction class - In Stage DatesToStocks - When Handling Stock RDEL
+01-Nov-17 9:51:33 AM 13:Type mismatch - In Stage PopulateNVSShortlist - When Handling Stock RDEL
